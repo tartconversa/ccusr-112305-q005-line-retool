@@ -1,0 +1,57 @@
+[
+  {
+    "move": "MT11",
+    "item": "FX-001",
+    "tooling": "T1-0",
+    "location_from": "site1",
+    "location_to": "site2",
+    "kind": "已发出",
+    "effective": "2026-03-21",
+    "accepted": "2026-03-21",
+    "depends": null
+  },
+  {
+    "move": "MT11",
+    "item": "FX-001",
+    "tooling": "T1-0",
+    "location_from": "site1",
+    "location_to": "site2",
+    "kind": "到站待确认",
+    "effective": "2026-03-22",
+    "accepted": "2026-03-22",
+    "depends": null
+  },
+  {
+    "move": "MT11",
+    "item": "FX-001",
+    "tooling": "T1-0",
+    "location_from": "site1",
+    "location_to": "site2",
+    "kind": "已领用",
+    "effective": "2026-03-23",
+    "accepted": "2026-03-24",
+    "depends": "Q11"
+  },
+  {
+    "move": "MT11",
+    "item": "FX-002",
+    "tooling": "T1-0",
+    "location_from": "site1",
+    "location_to": "site2",
+    "kind": "只收到部分包装",
+    "effective": "2026-03-24",
+    "accepted": "2026-03-24",
+    "depends": null
+  },
+  {
+    "move": "MT12",
+    "item": "FX-001",
+    "tooling": "T1-0",
+    "location_from": "site2",
+    "location_to": "site1",
+    "kind": "回切申请",
+    "effective": "2026-04-04",
+    "accepted": null,
+    "depends": "Q10"
+  }
+]

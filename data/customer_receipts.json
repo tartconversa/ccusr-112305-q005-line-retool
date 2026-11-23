@@ -1,0 +1,42 @@
+[
+  {
+    "receipt": "CR1",
+    "booking": "B1",
+    "order": "O1",
+    "batch": "G1",
+    "accepted": 17,
+    "rejected": 4,
+    "arrived": "2026-04-01",
+    "kind": "部分签收"
+  },
+  {
+    "receipt": "CR2",
+    "booking": "B1",
+    "order": "O1",
+    "batch": "G1",
+    "accepted": 5,
+    "rejected": 2,
+    "arrived": "2026-04-03",
+    "kind": "补发签收"
+  },
+  {
+    "receipt": "CR3",
+    "booking": "B1",
+    "order": "O1",
+    "batch": "G1",
+    "accepted": 0,
+    "rejected": 4,
+    "arrived": "2026-04-04",
+    "kind": "返工要求"
+  },
+  {
+    "receipt": "CR4",
+    "booking": "B3",
+    "order": "O3",
+    "batch": "G3",
+    "accepted": 9,
+    "rejected": 0,
+    "arrived": "2026-04-05",
+    "kind": "优先交接申请"
+  }
+]

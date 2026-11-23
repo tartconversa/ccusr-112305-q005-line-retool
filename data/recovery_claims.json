@@ -1,0 +1,32 @@
+[
+  {
+    "claim": "C1",
+    "shop": "site1",
+    "tool": "FX-001",
+    "batch": "G1",
+    "client": "O1",
+    "want_min": 180,
+    "want_pairs": 6,
+    "state": "提出"
+  },
+  {
+    "claim": "C2",
+    "shop": "site1",
+    "tool": "FX-001",
+    "batch": "G3",
+    "client": "O3",
+    "want_min": 180,
+    "want_pairs": 9,
+    "state": "已接受"
+  },
+  {
+    "claim": "C3",
+    "shop": "site2",
+    "tool": "FX-002",
+    "batch": "G1",
+    "client": "O1",
+    "want_min": 60,
+    "want_pairs": 5,
+    "state": "试作"
+  }
+]

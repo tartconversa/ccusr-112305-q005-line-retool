@@ -18,3 +18,11 @@ class SourceContractTest(unittest.TestCase):
         self.assertTrue(any(row["shop"] == qualifications[0]["shop"] and
                             row["fixture"] == qualifications[0]["tooling"] and
                             qualifications[0]["checked"] <= row["day"] < qualifications[1]["checked"] for row in started))
+
+    def test_handover_inputs(self):
+        sources = [read_table(name) for name in ['tool_moves', 'customer_receipts', 'recovery_claims', 'schedule']]
+        self.assertTrue(all(x["booking"] in {b["booking"] for b in sources[3]} for x in sources[1]))
+        self.assertEqual({x["kind"] for x in sources[0] if x["item"]=="FX-001"},
+                         {"已发出","到站待确认","已领用","回切申请"})
+        self.assertEqual({x["state"] for x in sources[2] if x["tool"]=="FX-001"},{"已接受","提出"})
+
