@@ -1,0 +1,42 @@
+[
+  {
+    "booking": "B1",
+    "order": "O1",
+    "shop": "site2",
+    "mentor_slot": "H0-3",
+    "fixture": "T1-0",
+    "day": "2026-03-28",
+    "reserved_pairs": 28,
+    "state": "已开工"
+  },
+  {
+    "booking": "B2",
+    "order": "O2",
+    "shop": "site1",
+    "mentor_slot": "H1-4",
+    "fixture": "T2-0",
+    "day": "2026-03-28",
+    "reserved_pairs": 45,
+    "state": "已接受"
+  },
+  {
+    "booking": "B3",
+    "order": "O3",
+    "shop": "site1",
+    "mentor_slot": "H2-4",
+    "fixture": "T1-0",
+    "day": "2026-04-11",
+    "reserved_pairs": 28,
+    "state": "已接受"
+  },
+  {
+    "booking": "B4",
+    "order": "O1",
+    "shop": "site0",
+    "mentor_slot": "H0-4",
+    "fixture": "T1-1",
+    "day": "2026-04-04",
+    "reserved_pairs": 24,
+    "state": "方案"
+  }
+]

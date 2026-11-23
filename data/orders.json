@@ -1,0 +1,39 @@
+[
+  {
+    "order": "O1",
+    "product": "夹层",
+    "qty": 74,
+    "origin": "site1",
+    "deadline": "2026-04-11",
+    "trace_group": "G1",
+    "max_sites": 2,
+    "tooling": [
+      "T1-0",
+      "T1-1"
+    ]
+  },
+  {
+    "order": "O2",
+    "product": "智能",
+    "qty": 62,
+    "origin": "site1",
+    "deadline": "2026-04-04",
+    "trace_group": "G2",
+    "max_sites": 1,
+    "tooling": [
+      "T2-0"
+    ]
+  },
+  {
+    "order": "O3",
+    "product": "夹层",
+    "qty": 58,
+    "origin": "site1",
+    "deadline": "2026-04-11",
+    "trace_group": "G3",
+    "max_sites": 1,
+    "tooling": [
+      "T1-0"
+    ]
+  }
+]

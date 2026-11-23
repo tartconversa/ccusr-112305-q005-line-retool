@@ -1,0 +1,20 @@
+[
+  {
+    "shop": "site0",
+    "work_min": 350,
+    "inspection_pairs": 42,
+    "origin_rework_reserve": 11
+  },
+  {
+    "shop": "site1",
+    "work_min": 390,
+    "inspection_pairs": 51,
+    "origin_rework_reserve": 19
+  },
+  {
+    "shop": "site2",
+    "work_min": 315,
+    "inspection_pairs": 29,
+    "origin_rework_reserve": 14
+  }
+]

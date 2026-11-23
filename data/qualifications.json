@@ -1,0 +1,52 @@
+[
+  {
+    "qualification": "Q10",
+    "shop": "site1",
+    "tooling": "T1-0",
+    "product": "夹层",
+    "since": "2026-02-14",
+    "state": "合格",
+    "authority": "总部",
+    "checked": "2026-02-14"
+  },
+  {
+    "qualification": "Q11",
+    "shop": "site2",
+    "tooling": "T1-0",
+    "product": "夹层",
+    "since": "2026-03-21",
+    "state": "合格",
+    "authority": "总部",
+    "checked": "2026-03-21"
+  },
+  {
+    "qualification": "Q11",
+    "shop": "site2",
+    "tooling": "T1-0",
+    "product": "夹层",
+    "since": "2026-03-21",
+    "state": "降级",
+    "authority": "复核员",
+    "checked": "2026-04-04"
+  },
+  {
+    "qualification": "Q12",
+    "shop": "site1",
+    "tooling": "T2-0",
+    "product": "智能",
+    "since": "2026-03-07",
+    "state": "合格",
+    "authority": "总部",
+    "checked": "2026-03-07"
+  },
+  {
+    "qualification": "Q13",
+    "shop": "site0",
+    "tooling": "T1-1",
+    "product": "夹层",
+    "since": "2026-03-14",
+    "state": "试用",
+    "authority": "总部",
+    "checked": "2026-03-14"
+  }
+]

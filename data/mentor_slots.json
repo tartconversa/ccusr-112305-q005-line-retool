@@ -1,0 +1,146 @@
+[
+  {
+    "slot": "H0-1",
+    "mentor": "师傅0",
+    "day": "2026-03-07",
+    "shift": 1,
+    "site": "site0",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H0-2",
+    "mentor": "师傅0",
+    "day": "2026-03-14",
+    "shift": 2,
+    "site": "site0",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H0-3",
+    "mentor": "师傅0",
+    "day": "2026-03-21",
+    "shift": 0,
+    "site": "site0",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H0-4",
+    "mentor": "师傅0",
+    "day": "2026-03-28",
+    "shift": 1,
+    "site": "site0",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H1-1",
+    "mentor": "师傅1",
+    "day": "2026-03-07",
+    "shift": 1,
+    "site": "site1",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H1-2",
+    "mentor": "师傅1",
+    "day": "2026-03-14",
+    "shift": 2,
+    "site": "site1",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H1-3",
+    "mentor": "师傅1",
+    "day": "2026-03-21",
+    "shift": 0,
+    "site": "site1",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H1-4",
+    "mentor": "师傅1",
+    "day": "2026-03-28",
+    "shift": 1,
+    "site": "site1",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H2-1",
+    "mentor": "师傅0",
+    "day": "2026-03-07",
+    "shift": 1,
+    "site": "site2",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H2-2",
+    "mentor": "师傅0",
+    "day": "2026-03-14",
+    "shift": 2,
+    "site": "site2",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H2-3",
+    "mentor": "师傅0",
+    "day": "2026-03-21",
+    "shift": 0,
+    "site": "site2",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H2-4",
+    "mentor": "师傅0",
+    "day": "2026-03-28",
+    "shift": 1,
+    "site": "site2",
+    "craft": "夹层",
+    "available_min": 90
+  },
+  {
+    "slot": "H3-1",
+    "mentor": "师傅1",
+    "day": "2026-03-07",
+    "shift": 1,
+    "site": "site0",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H3-2",
+    "mentor": "师傅1",
+    "day": "2026-03-14",
+    "shift": 2,
+    "site": "site0",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H3-3",
+    "mentor": "师傅1",
+    "day": "2026-03-21",
+    "shift": 0,
+    "site": "site0",
+    "craft": "智能",
+    "available_min": 90
+  },
+  {
+    "slot": "H3-4",
+    "mentor": "师傅1",
+    "day": "2026-03-28",
+    "shift": 1,
+    "site": "site0",
+    "craft": "智能",
+    "available_min": 90
+  }
+]
